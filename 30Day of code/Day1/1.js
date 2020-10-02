@@ -1,3 +1,5 @@
+//First day of code
+
 let firstName = " Rohit";
 firstName = "sharma";
 
